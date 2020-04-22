@@ -1,3 +1,4 @@
+
 .card-body {
   transition: opacity 0.25s ease-in-out;
 }
@@ -12,4 +13,82 @@
 
 .card:hover .card-img-top {
   transform: scale(1.05);
+}
+
+/* CSS THAT I'VE DONE */
+
+.card {
+  border-style: none;
+  padding: 0 1em;
+}
+
+.jumbotron{
+  background-color: white;
+}
+
+.jumbotron.jumbotron-fluid.margin {
+  margin-top: 10em;
+}
+
+.jumbotron p {
+  margin-top: 15em;
+}
+
+.container-row-col {
+  background-color: black;
+  color:white;
+}
+
+.row.menu-bar{
+  margin-top: 4em;
+}
+
+.row-col{
+  padding: 10em 3em;
+}
+
+.nav-link-special-grey{
+  padding: 0;
+  color:#8a9399;
+}
+
+.nav-link-special{
+  padding: 0;
+}
+
+.row.we-build{
+  margin: 12em 0;
+}
+
+.row.drop{
+  margin: 12em 0;
+}
+
+a.nav-link.color-a{
+  color: #495057;
+}
+
+.margin-drop{
+  margin: 12em 0;
+}
+
+ul.list-group.list-group-flush.list-group-horizontal.what-we-do {
+  padding: 0 10em;
+}
+
+ul.list-group.list-group-flush.list-group-horizontal {
+  padding: 1em;
+}
+
+span{
+  color: #007bff;
+}
+
+ul.nav.justify-content-center {
+  margin: 6em 0 15em 0;
+}
+
+.mr-3.monogram-logo{
+  width:20px;
+  height: 20px;
 }
